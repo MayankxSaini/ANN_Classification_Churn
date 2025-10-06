@@ -1,7 +1,7 @@
 pip==25.2
 setuptools>=65.0.0
 wheel>=0.41.0
-tensorflow==2.15.0
+tensorflow==2.20.0
 pandas 
 numpy 
 scikit-learn
@@ -9,4 +9,5 @@ tensorboard
 matplotlib
 streamlit
 scikeras
+
 
